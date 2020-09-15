@@ -11,7 +11,7 @@
 - wordcloud
 - seaborn
 
-*Instructions:*
+## Instructions:
 
 In order to run the presentation webpage have all of the above packages installed in your python IDE or environment and run app.py. It will call all of the necessary scripts that we have written to create the visualizations.
 
